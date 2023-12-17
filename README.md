@@ -1,4 +1,6 @@
-Usage:
+<h2>Performance Collector</h2>
+<h3>Usage:</h3>
+
 In server where you want use Performance Collector you should create folder Scripts in C:\ and copy files Perf_Coll.ps1 and TS_Perf_Coll.ps1.
 
 Fist run script TS_Perf_Coll.ps1 this script will create Task in Task Scheduler Job. Job name is _Perf_Coll.

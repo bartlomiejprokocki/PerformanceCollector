@@ -2,4 +2,4 @@
 <h3>Usage:</h3>
 
  To install Performance Collector please use Perf_Coll_Installer.ps1<br>
- Bartek
+ /Bartłomiej Prokocki
